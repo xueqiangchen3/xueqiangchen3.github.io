@@ -1,11 +1,11 @@
 # Site settings
-title: 陈雪强 Blog
-SEOTitle: 陈雪强的博客 | 陈雪强 Blog
+title: Hux Blog
+SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: 18703645669@163.com
-description: "这里是 @Hu陈雪强 的个人博客，与你一起发现更大的世界 "
-keyword: "博客, 个人网站, 互联网"
-url: "https://xueqiangchen3.me your host, for absolute URL
+email: huxpro@gmail.com
+description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: xueqiangchen3
-zhihu_username: xueqiangchen3
-github_username: xueqiangchen3
-twitter_username: xueqiangchen3
-#facebook_username:  xueqiangchen3
+weibo_username: huxpro
+zhihu_username: huxpro
+github_username: huxpro
+twitter_username: huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
