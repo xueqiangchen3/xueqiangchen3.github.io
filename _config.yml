@@ -3,7 +3,7 @@ title: 陈雪强 Blog
 SEOTitle: 陈雪强的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email:18703645669@163.com
-description: "这里是 @Hu陈雪强玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 @Hu陈雪强 的个人博客，与你一起发现更大的世界 "
 keyword: " "
 url: "https://xueqiangchen3.me your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: xueqiangchen3
+zhihu_username: xueqiangchen3
+github_username: xueqiangchen3
+twitter_username: xueqiangchen3
+#facebook_username:  xueqiangchen3
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
